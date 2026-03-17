@@ -2,9 +2,9 @@
 映像エフェクトで画像・動画を挿入することができるYMM4プラグイン
 
 ## 使用例
-こんなことができます▼（開発中の映像です）
+こんなことができます▼
 
-https://x.com/ilirudom/status/2029568437547409484
+https://x.com/modurili/status/2034002056416301555
 
 ## 導入方法
 ### [最新バージョンをダウンロード](https://github.com/modurili/ImageOverlay/releases/latest)
